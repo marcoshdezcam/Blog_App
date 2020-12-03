@@ -57,3 +57,6 @@ gem 'rubocop', '~>0.81.0'
 
 # Add file atachments
 gem 'paperclip'
+
+# Authentication
+gem 'sorcery'
